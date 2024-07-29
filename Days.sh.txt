@@ -1,0 +1,9 @@
+get_day_of_week(){
+case $1 in:
+echo ""
+
+
+
+
+
+}
